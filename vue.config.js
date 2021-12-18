@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: 'web-final-vue'
+  publicPath: '/web-final-vue/'
 }
